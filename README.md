@@ -50,9 +50,17 @@ CREATE TABLE terrain_classification (
     
 );
 
+## given files:
+   1.latitude_longitude_details (2).csv
+   2.terrain_classification (2).csv
+   3.Machine test junior python (2)--questions for the project
+
+This project focuses on processing geographic data, specifically latitude and longitude coordinates, to correct any discontinuities in a given path. The goal is to ensure a smooth, continuous path between points, which is particularly useful for mapping applications.The project also includes interactive visualization using maps to compare the original and corrected paths, providing an easy-to-understand visual result. This can be useful for applications like route planning, geospatial analysis, or any system that requires accurate path representations.
 
 
-given files:
-     1.latitude_longitude_details (2).csv
-     2.terrain_classification (2).csv
-     3.Machine test junior python (2)--questions for the project
+
+
+
+
+
+
