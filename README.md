@@ -8,11 +8,10 @@ This project is designed to process and fix discontinuities in a set of latitude
 
 
 1. **Correct Discontinuities**: Automatically identify and correct coordinates that are out of a continuous path. --- you can check it out in q1.py file the code is explaind in the file accordigly
-2. **Visualize the Data**: Plot the coordinates before and after correction on a map and compare the results.--- screenshot of the html file <p align="center">
-  <img src="images/map.png" alt="Project logo" width="200"/>
-</p>
-, can see the file as path_comparison_map.html
-3. **Data Preprocessing**: Reading and fixing discontinuous coordinates.--- the fixed file is in latitude_longitude_cleaned.csv and images/latitude_cleaned
+2. **Visualize the Data**: Plot the coordinates before and after correction on a map and compare the results.--- screenshot of the html file ![Project logo](images/map.png)
+
+   , can see the file as path_comparison_map.html
+4. **Data Preprocessing**: Reading and fixing discontinuous coordinates.--- the fixed file is in latitude_longitude_cleaned.csv and images/latitude_cleaned
 
 ## query_script-explanetion
 
